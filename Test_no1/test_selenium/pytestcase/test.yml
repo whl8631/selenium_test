@@ -1,0 +1,6 @@
+login:
+-
+  parameters:
+      username-password:
+        - ["aaaa", "bbbbb" ]
+        - ["111", "22222" ]
